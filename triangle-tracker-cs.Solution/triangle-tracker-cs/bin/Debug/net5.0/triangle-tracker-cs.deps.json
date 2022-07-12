@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "triangle-tracker-cs/1.0.0": {
+        "runtime": {
+          "triangle-tracker-cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "triangle-tracker-cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

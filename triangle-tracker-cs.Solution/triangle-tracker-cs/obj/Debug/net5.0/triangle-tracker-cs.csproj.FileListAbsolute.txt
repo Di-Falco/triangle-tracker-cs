@@ -1,0 +1,12 @@
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/bin/Debug/net5.0/triangle-tracker-cs.deps.json
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/bin/Debug/net5.0/triangle-tracker-cs.dll
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/bin/Debug/net5.0/ref/triangle-tracker-cs.dll
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/bin/Debug/net5.0/triangle-tracker-cs.pdb
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.csproj.AssemblyReference.cache
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.AssemblyInfoInputs.cache
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.AssemblyInfo.cs
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.csproj.CoreCompileInputs.cache
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.dll
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/ref/triangle-tracker-cs.dll
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs/obj/Debug/net5.0/triangle-tracker-cs.pdb
