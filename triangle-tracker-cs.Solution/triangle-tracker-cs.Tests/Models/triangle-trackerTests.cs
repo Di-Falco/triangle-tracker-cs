@@ -18,6 +18,7 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle();
       Assert.AreEqual(false, testTriangle.IsValidTriangle(3,4,8));
     }
+
     [TestMethod]
     public void IsScalene_NoSidesAreEqual_True()
     {
@@ -30,6 +31,7 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle();
       Assert.AreEqual(false, testTriangle.IsScalene(4,4,5));
     }
+
     [TestMethod]
     public void IsEquilateral_AllSidesEqual_True()
     {
@@ -42,6 +44,7 @@ namespace TriangleTracker.Tests
       Triangle testTriangle = new Triangle();
       Assert.AreEqual(false, testTriangle.IsEquilateral(5,4,4));
     }
+    
     [TestMethod]
     public void IsIsosceles_TwoSidesEqual_True()
     {

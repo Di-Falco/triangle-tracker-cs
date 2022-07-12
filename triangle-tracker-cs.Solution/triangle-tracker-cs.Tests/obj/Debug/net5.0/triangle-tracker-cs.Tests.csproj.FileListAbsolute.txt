@@ -98,3 +98,6 @@
 /Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/obj/Debug/net5.0/ref/triangle-tracker-cs.Tests.dll
 /Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/obj/Debug/net5.0/triangle-tracker-cs.Tests.pdb
 /Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/obj/Debug/net5.0/triangle-tracker-cs.Tests.genruntimeconfig.cache
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/bin/Debug/net5.0/triangle-tracker-cs.deps.json
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/bin/Debug/net5.0/triangle-tracker-cs.runtimeconfig.json
+/Users/difalcoa/Desktop/epicodus/triangle-tracker-cs/triangle-tracker-cs.Solution/triangle-tracker-cs.Tests/bin/Debug/net5.0/triangle-tracker-cs.runtimeconfig.dev.json
